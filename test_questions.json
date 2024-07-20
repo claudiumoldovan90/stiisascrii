@@ -1,0 +1,14 @@
+[
+  {
+    "word": "affect",
+    "part_of_speech": "verb",
+    "correct_usage": "The rain affected the picnic.",
+    "common_mistake": "The rain effected the picnic."
+  },
+  {
+    "word": "effect",
+    "part_of_speech": "noun",
+    "correct_usage": "The effect of the rain was clear.",
+    "common_mistake": "The affect of the rain was clear."
+  }
+]
